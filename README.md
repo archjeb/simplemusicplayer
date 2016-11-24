@@ -1,5 +1,5 @@
 # simplemusicplayer
-Simple MP3 Player with a staticly defined text based playlist
+Simple MP3 Player with a statically defined text based playlist
 
 # Overview
 The purpose of writing this simple mp3 player was two fold:
